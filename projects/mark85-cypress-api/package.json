@@ -1,0 +1,26 @@
+{
+  "name": "mark85-cypress-api",
+  "version": "1.0.0",
+  "description": "Projeto de teste de api do mark85",
+  "keywords": [
+    "cypress",
+    "api",
+    "mark85",
+    "mongodb",
+    "rabbitmq"
+  ],
+  "license": "ISC",
+  "author": "Augusto Santos",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^15.7.1",
+    "cypress-plugin-api": "^2.11.2"
+  },
+  "dependencies": {
+    "mongodb": "^7.0.0"
+  }
+}

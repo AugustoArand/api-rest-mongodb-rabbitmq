@@ -1,0 +1,35 @@
+{
+    "login": {
+        "name":"Roqueline Santos",
+        "email":"roqueline@yahoo.com.br",
+        "password":"123456"
+    },
+
+    "inv_pass":{
+        "email":"augusto@yahoo.com.br",
+        "password":"1234567"
+    },
+
+    "email_404":{
+        "email":"404@yahoo.com.br",
+        "password":"1234567"
+    },
+
+    "create_user": {
+        "name":"Augusto Santos",
+        "email":"augusto@yahoo.com.br",
+        "password":"123456"
+    },
+
+    "duplicate_email": {
+        "name":"Roqueline Santos",
+        "email":"roqueline@yahoo.com.br",
+        "password":"123456"
+    },
+
+    "required_fields": {
+        "name":"Renato Cariani'",
+        "email":"renato@gmail.com",
+        "password":"pwd123'"
+    }
+}
